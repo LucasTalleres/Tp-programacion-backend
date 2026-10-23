@@ -1,0 +1,9 @@
+@api_HostAddress = http://localhost:5134
+
+GET {{api_HostAddress}}/player
+Accept: application/json
+
+###
+
+GET {{api_HostAddress}}/course
+Accept: application/json

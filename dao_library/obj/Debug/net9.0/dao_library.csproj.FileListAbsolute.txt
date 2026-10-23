@@ -1,0 +1,17 @@
+D:\Tp Programacion backend\dao_library\bin\Debug\net9.0\dao_library.deps.json
+D:\Tp Programacion backend\dao_library\bin\Debug\net9.0\dao_library.dll
+D:\Tp Programacion backend\dao_library\bin\Debug\net9.0\dao_library.pdb
+D:\Tp Programacion backend\dao_library\bin\Debug\net9.0\entity_library.dll
+D:\Tp Programacion backend\dao_library\bin\Debug\net9.0\entity_library.pdb
+D:\Tp Programacion backend\dao_library\obj\Debug\net9.0\dao_library.csproj.AssemblyReference.cache
+D:\Tp Programacion backend\dao_library\obj\Debug\net9.0\dao_library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tp Programacion backend\dao_library\obj\Debug\net9.0\dao_library.AssemblyInfoInputs.cache
+D:\Tp Programacion backend\dao_library\obj\Debug\net9.0\dao_library.AssemblyInfo.cs
+D:\Tp Programacion backend\dao_library\obj\Debug\net9.0\dao_library.csproj.CoreCompileInputs.cache
+D:\Tp Programacion backend\dao_library\obj\Debug\net9.0\dao_libr.F9BEABA2.Up2Date
+D:\Tp Programacion backend\dao_library\obj\Debug\net9.0\dao_library.dll
+D:\Tp Programacion backend\dao_library\obj\Debug\net9.0\refint\dao_library.dll
+D:\Tp Programacion backend\dao_library\obj\Debug\net9.0\dao_library.pdb
+D:\Tp Programacion backend\dao_library\obj\Debug\net9.0\ref\dao_library.dll
+D:\Tp Programacion backend\dao_library\bin\Debug\net9.0\dao_library.runtimeconfig.json
+D:\Tp Programacion backend\dao_library\obj\Debug\net9.0\dao_library.genruntimeconfig.cache

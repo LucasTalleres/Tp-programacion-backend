@@ -1,0 +1,11 @@
+D:\Tp Programacion backend\entity_library\bin\Debug\net9.0\entity_library.deps.json
+D:\Tp Programacion backend\entity_library\bin\Debug\net9.0\entity_library.dll
+D:\Tp Programacion backend\entity_library\bin\Debug\net9.0\entity_library.pdb
+D:\Tp Programacion backend\entity_library\obj\Debug\net9.0\entity_library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tp Programacion backend\entity_library\obj\Debug\net9.0\entity_library.AssemblyInfoInputs.cache
+D:\Tp Programacion backend\entity_library\obj\Debug\net9.0\entity_library.AssemblyInfo.cs
+D:\Tp Programacion backend\entity_library\obj\Debug\net9.0\entity_library.csproj.CoreCompileInputs.cache
+D:\Tp Programacion backend\entity_library\obj\Debug\net9.0\entity_library.dll
+D:\Tp Programacion backend\entity_library\obj\Debug\net9.0\refint\entity_library.dll
+D:\Tp Programacion backend\entity_library\obj\Debug\net9.0\entity_library.pdb
+D:\Tp Programacion backend\entity_library\obj\Debug\net9.0\ref\entity_library.dll
